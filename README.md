@@ -1,2 +1,2 @@
 # TestEGIT
-eclipse git
+eclipse git.
